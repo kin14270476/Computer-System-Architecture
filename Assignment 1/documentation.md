@@ -9,3 +9,9 @@
 # 4.0 Evaluation of CPU operation
 ## 4.1 Evaluation of CPU preformonce within the 8 bit archucture of the simmulator
 ## 4.2 
+## 4.3 ALU operation and interupts
+## 5.0 conclusion
+the aructure of simulator
+# 6.0 bigioledgy 
+# 7.0 apendix
+# 8.0
