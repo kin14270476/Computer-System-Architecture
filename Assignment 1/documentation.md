@@ -2,13 +2,17 @@
 # 1.0 Introduction
 
 # 2.0 Poster
-## 2.1 how the poster was made
-## 2.2 screenshot
+## 2.1 screenshot
 ![Poster](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/Computer%20Components%20King%20P1.jpg)
-## 2.3 notes
+## 2.2 notes
 # 3.0 traffic lights
+The task of this tutorial is to teach you how to use the traffic light software which used for simulating traffic lights.
 ## 3.1 tutorial
+When you first start the program it will close all the windows in the program and then a pop-up box which will show you the ram that this program has access to and what current adress the programe is at. The next thing the program will do is set the varible of AL to 30 in hexadecimal
 ![screenshot 1](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot1.png)
+The reason I have done this 
+
+![traffic light](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/Traffic%20light.png)
 ![screenshot 2](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot2.png)
 ![screenshot 3](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot3.png)
 ![screenshot 4](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot4.png)
