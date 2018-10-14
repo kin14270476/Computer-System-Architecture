@@ -14,16 +14,17 @@ When you first start the program it will close all the windows in the program an
 The traffic lights work by an 8bit binary string in which the first 3 bit control the left traffic light whilst the next 3 bit would control the right traffic light and the last 2 bit do nothing. The first bit signals the red light to be on, the second bit would singnal the yellow light and the third bit would signal the green light. An example of this would be the 10000100 which cause the left traffic light to be red and the right one to be green. As the software only accepts hexadecimal you need to convert the binary to hexadecimal so that you can send the value to the traffic lights. So if you used the previous example you would need to be 84 for it to turn the traffic light to the right colour.
 
 ![traffic light](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/Traffic%20light.png)
+
 Continuing on with the program, it now send value that is stored in the varible AL which is 30 to port 1 which is the traffic light. After this has happend a new pop-up will which will show you the traffic lights with it being green on the left and red on the right.
 
 ![screenshot 2](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot2.png)
-Next the program will set the varible BL to 
+Next the program will set the varible BL to 20 in hexadecimal which will be used in a loop later on.
 
 ![screenshot 3](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot3.png)
-
+The program will now go to the adress 90 which is a procedure called Time Delay.
 
 ![screenshot 4](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot4.png)
-
+As you can see in  the 
 
 ![screenshot 5](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot5.png)
 
