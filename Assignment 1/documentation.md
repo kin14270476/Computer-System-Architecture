@@ -1,3 +1,4 @@
+![Cover Page](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/cover%20page.png)
 # 1.0 Introduction
 
 # 2.0 Poster
