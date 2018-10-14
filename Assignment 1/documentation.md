@@ -24,13 +24,13 @@ Next the program will set the varible BL to 20 in hexadecimal which will be used
 The program will now go to the adress 90 which is a procedure called Time Delay.
 
 ![screenshot 3](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot3.png)
-As you can see in the RAM Source Code View you can see that we have  
+As you can see in the RAM Source Code View you can see that we have jumped to 90 on the adress table instead of the normal A. This was done so that the Time delay procedure does not conflict with any of the other code. This procedure was created so that the traffic light will not instantly change but wait a peirod time.
 
 ![screenshot 4](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot4.png)
-
+Next it will decrease BL by 1 which you can see in the left of the program. It will then jump to Rep if BL is not 0.
 
 ![screenshot 5](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot5.png)
-
+This will cause a while loop to ocure which will waste time of the cpu and allow the traffic light to stay their colour for a peirod of time.
 
 ![screenshot 6](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot6.png)
 
