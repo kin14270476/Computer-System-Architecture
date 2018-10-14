@@ -3,6 +3,7 @@
 # 2.0 Poster
 ## 2.1 how the poster was made
 ## 2.2 screenshot
+![Poster](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/Computer%20Components%20King%20P1.jpg)
 ## 2.3 notes
 # 3.0 traffic lights
 ## 3.1 tutorial
