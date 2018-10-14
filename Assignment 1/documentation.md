@@ -17,14 +17,17 @@ The traffic lights work by an 8bit binary string in which the first 3 bit contro
 
 Continuing on with the program, it now send value that is stored in the varible AL which is 30 to port 1 which is the traffic light. After this has happend a new pop-up will which will show you the traffic lights with it being green on the left and red on the right.
 
-![screenshot 2](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot2.png)
+![screenshot 13](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot13.png)
 Next the program will set the varible BL to 20 in hexadecimal which will be used in a loop later on.
 
-![screenshot 3](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot3.png)
+![screenshot 2](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot2.png)
 The program will now go to the adress 90 which is a procedure called Time Delay.
 
+![screenshot 3](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot3.png)
+As you can see in the RAM Source Code View you can see that we have  
+
 ![screenshot 4](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot4.png)
-As you can see in  the 
+
 
 ![screenshot 5](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot5.png)
 
