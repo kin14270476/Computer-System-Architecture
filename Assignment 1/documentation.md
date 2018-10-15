@@ -30,31 +30,28 @@ As you can see in the RAM Source Code View you can see that we have jumped to 90
 Next it will decrease BL by 1 which you can see in the left of the program. It will then jump to Rep if BL is not 0.
 
 ![screenshot 5](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot5.png)
-This will cause a while loop to occur which will waste time of the CPU and allow the traffic light to stay their colour for a period of time which will be dependent on what value you put in the BL variable.
+This will cause a while loop to occur which will waste time of the CPU and allow the traffic light to stay their colour for a period of time which will be dependent on what value you put in the BL variable as this cause it to loop more times.
 
 ![screenshot 6](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot6.png)
-
-
-![screenshot 7](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot7.png)
-
+Here BL has reached 0 so it was able to break free of the while loop.
 
 ![screenshot 8](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot8.png)
-
+It will then restore the value that was in BL and return to the location before precedure happened which would be A in the address table.
 
 ![screenshot 9](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot9.png)
-
+Here it has set the value of AL to 50 whcih will turn the left traffic light yellow and the right one will be red.
 
 ![screenshot 10](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot10.png)
-
+As was stated before the left traffic light turned yellow and right one became red. This process will keep repeating it's self with the traffic light changing in to the correct colours and it will wait depending how big the BL value is.
 
 ![screenshot 11](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot11.png)
 
+![screenshot 13](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot13.png)
 
-![screenshot 12](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot12.png)
+![screenshot 14](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot14.png)
 
 # 4.0 Evaluation of CPU operation
 ## 4.1 Evaluation of CPU performance within the 8 bit architecture of the simulator
 ## 4.2 ALU operation and interrupts
 ## 5.0 Conclusion
-# 6.0 Bigioledgy 
-# 7.0 Appendix
+
