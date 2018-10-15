@@ -1,5 +1,6 @@
 ![Cover Page](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/cover%20page.png)
 # 1.0 Introduction
+This repository will include a poster about the subsystems of a computer and tutorial on how to use the traffic light software and how it works.
 
 # 2.0 Poster
 This poster is design to teach people about the subsystems of a computer, memory hierarchy, input/output system and the Von Neumann architecture.
