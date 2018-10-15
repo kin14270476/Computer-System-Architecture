@@ -45,10 +45,12 @@ Here it has set the value of AL to 50 whcih will turn the left traffic light yel
 As was stated before the left traffic light turned yellow and right one became red. This process will keep repeating it's self with the traffic light changing in to the correct colours and it will wait depending how big the BL value is.
 
 ![screenshot 11](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot11.png)
-
-![screenshot 13](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot13.png)
+Once the program has gone through all of program you will encounter a code that says "JMP Start" this will cause it the programme to go to Start procedure which is at the very beginning of the program.    
 
 ![screenshot 14](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot14.png)
+As the program went back to the beginning again it will cause an infinte loop as there is no way to escape it and as soon it reaches near the end of the code it go back to the begining again. The only way to end the program would be for it to reach a piece of code called "END" which will close the program but that is located after the JMP Start so it is impossible to reach. 
+
+![screenshot 15](https://github.com/kin14270476/Computer-System-Architecture/blob/master/Assignment%201/screenshots/screen%20shot15.png)
 
 # 4.0 Evaluation of CPU operation
 ## 4.1 Evaluation of CPU performance within the 8 bit architecture of the simulator
